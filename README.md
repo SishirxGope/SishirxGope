@@ -1,71 +1,50 @@
-<h2 align="left">Hi 👋! My name is Sishir Gope, and I'm an Aspiring Computer Science Engineer specializing in AI and Machine Learning from India.</h2>
+# 👋 Hi, I'm Sishir Gope
+**B.Tech Student @ IEM Kolkata | Aspiring AI & Machine Learning Engineer**
 
-<hr style="border: none; border-top: 3px solid #FF69B4; animation: slideIn 2s infinite alternate;">
+<p align="left">
+<a href="https://linkedin.com/in/sishir-gope-9082b931a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sishir-gope-9082b931a" height="30" width="40" /></a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SishirxGope&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SishirxGope&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+---
 
-<hr style="border: none; border-top: 3px solid #FF69B4; animation: slideIn 2s infinite alternate;">
+### 🚀 About Me
+- 🎓 I am currently pursuing my **B.Tech at the Institute of Engineering & Management (IEM), Kolkata** (Class of 2028).
+- ☁️ Specialized in **Microsoft Azure** and **Machine Learning** workflows.
+- 🤖 Passionate about **Generative AI** and optimizing technical research through AI tools.
+- 📊 Experienced in **Data Analysis** using SPSS and decision tree modeling.
 
-<h3 align="left">🛠 Tech Stack</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="Arduino" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="Blender" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="Google Cloud" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="Illustrator" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="Kaggle" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="R" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow" />
-</div>
+---
 
-<hr style="border: none; border-top: 3px solid #FF69B4; animation: slideIn 2s infinite alternate;">
+### 🛠️ Tech Stack & Skills
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Cloud Computing** | ![Azure](https://img.shields.io/badge/microsoft%20azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) |
+| **Machine Learning** | ![Azure ML](https://img.shields.io/badge/Azure%20ML-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Decision Trees](https://img.shields.io/badge/Decision%20Trees-FFA500?style=for-the-badge) |
+| **AI Tools** | ![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white) |
+| **Data Analysis** | ![SPSS](https://img.shields.io/badge/IBM%20SPSS-326CE5?style=for-the-badge&logo=ibm&logoColor=white) |
 
-<h3 align="left">🌐 Connect With Me</h3>
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="PayPal" />
-</div>
+---
 
-<hr style="border: none; border-top: 3px solid #FF69B4; animation: slideIn 2s infinite alternate;">
+### 📜 Certifications & Achievements
+- 🏆 **Microsoft Azure Machine Learning Fundamentals** - Cloud-based ML workflows.
+- 💡 **Generative AI** - Research & technical optimization specialist.
+- 🌲 **Foundations of Decision Trees with SPSS** - Predictive analytics.
+- 📈 **Foundations: Data, Data, Everywhere** - Data lifecycle management.
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SishirxGope.SishirxGope" alt="Visitor Count" />
-</div>
+---
 
-<hr style="border: none; border-top: 3px solid #FF69B4; animation: slideIn 2s infinite alternate;">
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SishirxGope&show_icons=true&theme=tokyonight" alt="Sishir's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SishirxGope&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=SishirxGope&theme=dark" alt="Latest Medium Posts" />
-</div>
+---
 
-<hr style="border: none; border-top: 3px solid #FF69B4; animation: slideIn 2s infinite alternate;">
+### 📫 Connect with Me
+- **LinkedIn:** [sishir-gope-9082b931a](https://linkedin.com/in/sishir-gope-9082b931a)
+- **Email:** [Sishir.Gope2024@iem.edu.in](mailto:Sishir.Gope2024@iem.edu.in)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SishirxGope/SishirxGope/output/snake.svg" alt="Snake animation" />
-</div>
-
-<img align="right" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjk3eGFyYXdueHN3bjJwcHdrNXhvZXdhZW9ub3d1ZGV6aHlxaWc5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3dhmyq6EKw2x7eFt4X/giphy.webp" alt="Coding Animation" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SishirxGope&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
