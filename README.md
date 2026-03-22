@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sishir Gope
+# 👋 Hi , I'm Sishir Gope
 **B.Tech Student @ IEM Kolkata | Aspiring AI & Machine Learning Engineer**
 
 <p align="left">
